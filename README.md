@@ -1,2 +1,1 @@
 # SandwichClub
-Home Screen.jpg
